@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=https://git.io/JJmN9/IsaqueClaudino=true&theme=radical">
+Isaque-Claudino-dos-Santos
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Claudino-dos-Santos&show_icons=true" alt="status" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Claudino-dos-Santos&layout=compact" alt="lengs">
+</div>
+
+
+
