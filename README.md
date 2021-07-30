@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueClaudino=true&theme=radical)"></a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Isaque-Claudino-dos-Santos_icons=true&theme=radical">
