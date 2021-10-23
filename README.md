@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 <div>
- 
  <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Claudino-dos-Santos&show_icons=true" alt="status" >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Claudino-dos-Santos&layout=compact" alt="lengs">
 </div>
