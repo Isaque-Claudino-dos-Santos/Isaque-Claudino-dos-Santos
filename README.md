@@ -20,4 +20,8 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Claudino-dos-Santos&show_icons=true" alt="status" >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Claudino-dos-Santos&layout=compact" alt="lengs">
 </div>
+
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+</div>
  
