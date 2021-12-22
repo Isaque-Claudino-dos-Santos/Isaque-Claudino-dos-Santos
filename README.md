@@ -31,7 +31,8 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
  <img src="https://c.tenor.com/eT65efTNamoAAAAi/bonfire-darksouls.gif" width="70">
 </div>
  
