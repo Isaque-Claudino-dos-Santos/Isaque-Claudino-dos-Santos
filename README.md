@@ -26,6 +26,9 @@ Here are some ideas to get you started:
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
  
+  
+ ![Snake animation](https://github.com/Isaque-Claudino-dos-Santos/Isaque-Claudino-dos-Santos/blob/output/github-contribution-grid-snake.svg)
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
