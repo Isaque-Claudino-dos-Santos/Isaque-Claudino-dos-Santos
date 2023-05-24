@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
  
+ ![Snake animation](Isaque-Claudino-dos-Santos)
   
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
