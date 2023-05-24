@@ -34,6 +34,6 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
  <img src="https://c.tenor.com/eT65efTNamoAAAAi/bonfire-darksouls.gif" width="70">
  
- <img src="https://github.com/Isaque-Claudino-dos-Santos/Isaque-Claudino-dos-Santos/blob/output/github-contribution-grid-snake.gif" style="background: #111111" />
+ <img src="https://github.com/Isaque-Claudino-dos-Santos/Isaque-Claudino-dos-Santos/blob/output/github-contribution-grid-snake.gif" />
 </div>
  
