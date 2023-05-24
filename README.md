@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div style="display: inline-block">
  <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Claudino-dos-Santos&show_icons=true" alt="status" >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Claudino-dos-Santos&layout=compact" alt="lengs">
+ <img src="https://github.com/Isaque-Claudino-dos-Santos/Isaque-Claudino-dos-Santos/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div>
@@ -34,6 +35,6 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
  <img src="https://c.tenor.com/eT65efTNamoAAAAi/bonfire-darksouls.gif" width="70">
  
- <img src="https://github.com/Isaque-Claudino-dos-Santos/Isaque-Claudino-dos-Santos/blob/output/github-contribution-grid-snake.svg" />
+
 </div>
  
