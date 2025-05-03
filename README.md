@@ -3,7 +3,6 @@
 <div style="display: inline-block">
  <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Claudino-dos-Santos&show_icons=true" alt="status" >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Claudino-dos-Santos&layout=compact" alt="lengs">
- <img src="https://github.com/Isaque-Claudino-dos-Santos/Isaque-Claudino-dos-Santos/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div>
