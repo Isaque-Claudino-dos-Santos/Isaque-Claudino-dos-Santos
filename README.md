@@ -9,7 +9,9 @@ Atuo principalmente com **PHP, Laravel, React, Vue.js, Node.js e TypeScript**, c
 Meu foco é transformar problemas em soluções simples, escaláveis e bem estruturadas.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-isaque.dev-111111?style=for-the-badge)](https://isaque-claudino-dos-santos.github.io/portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaque%20Claudino-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/isaque-claudino-santos)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Isaque--Claudino--dos--Santos-181717?style=for-the-badge\&logo=github)](https://github.com/Isaque-Claudino-dos-Santos)
 
 ---
